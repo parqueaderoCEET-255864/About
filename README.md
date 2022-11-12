@@ -6,7 +6,7 @@ Yenifer Olmos
 # descripcion
 El proyecto consiste en realizar un aplicativo en el cual nos permitira el control e ingresos de los vehiculos al CEET.para ello se realizo el caso de uso de los actores involucrados y ademas se creo los diagrama de clase paara la base de datos. 
 ## caso de uso
-![Imagen ER] (https://raw.githubusercontent.com/parqueaderoCEET-255864/Casos_De_Uso/main/diaagrama%20caso%20de%20uso.jpeg?token=GHSAT0AAAAAAB3DU65WJAKRQSQLAXZBFE6MY3QAUKA)
+![Imagen ER](https://raw.githubusercontent.com/parqueaderoCEET-255864/Casos_De_Uso/main/diaagrama%20caso%20de%20uso.jpeg?token=GHSAT0AAAAAAB3DU65WJAKRQSQLAXZBFE6MY3QAUKA)
 en los caso de uso se ve involucrado 3 actores los cuales son: administrador,usuario y seguridad.
 # administrador
 el administrador inicia sesion y es el encargado de realizar el registro,actualizacion y eliminacion de los login de seguridad.
